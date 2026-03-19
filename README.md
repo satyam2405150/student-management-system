@@ -1,3 +1,6 @@
+## Author
+Satyam Mohanty
+
 # Student Management System
 
 This is a backend project built using Java and SQL to manage student records efficiently.
